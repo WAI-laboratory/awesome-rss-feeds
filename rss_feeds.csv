@@ -1,0 +1,519 @@
+title,description,url,type,category
+9to5Mac,Apple News & Mac Rumors Breaking All Day,https://9to5mac.com/feed,rss,Apple
+Apple,,https://www.youtube.com/feeds/videos.xml?user=Apple,rss,Apple
+Apple Newsroom,,https://www.apple.com/newsroom/rss-feed.rss,rss,Apple
+AppleInsider News,AppleInsider News Feed,https://appleinsider.com/rss/news/,rss,Apple
+Cult of Mac,Tech and culture through an Apple lens,https://www.cultofmac.com/feed,rss,Apple
+Daring Fireball,By John Gruber,https://daringfireball.net/feeds/main,rss,Apple
+MacRumors,,https://www.youtube.com/feeds/videos.xml?user=macrumors,rss,Apple
+MacRumors: Mac News and Rumors - Mac Blog,"Apple, iPhone, iPad, Mac News and Rumors",http://feeds.macrumors.com/MacRumors-Mac,rss,Apple
+MacStories,"Apple news, app reviews, and stories by Federico Viticci and friends.",https://www.macstories.net/feed,rss,Apple
+Macworld.com,"Macworld is your best source for all things Apple. We give you the scoop on what's new, what's best and how to make the most out of the products you love.",https://www.macworld.com/index.rss,rss,Apple
+Marco.org,"I'm Marco Arment, creator of Overcast, technology podcaster and writer, and coffee enthusiast.",https://marco.org/rss,rss,Apple
+OS X Daily,"News, tips, software, reviews, and more for Mac OS X, iPhone, iPad",http://feeds.feedburner.com/osxdaily,rss,Apple
+The Loop,Making Sense of Technology,https://www.loopinsight.com/feed,rss,Apple
+The unofficial Apple community,"An unofficial community to discuss Apple devices and software, including news, rumors, opinions and analysis pertaining to the company located at One Apple Park Way.",https://www.reddit.com/r/apple/.rss,rss,Apple
+"iMore - The #1 iPhone, iPad, and iPod touch blog","More news and rumors, more help and how-tos, more app and accessory reviews, more iPhone and iPad and iPod touch. More of everything you love. iMore.",http://feeds.feedburner.com/TheiPhoneBlog,rss,Apple
+r/iPhone,Reddit's corner for iPhone lovers (or those who mildly enjoy it...),https://www.reddit.com/r/iphone/.rss,rss,Apple
+All News,,https://www.investing.com/rss/news.rss,rss,Business & Economy
+Bloomberg Quicktake,,https://www.youtube.com/feeds/videos.xml?user=Bloomberg,rss,Business & Economy
+Breaking News on Seeking Alpha,"© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://seekingalpha.com/page/terms-of-use). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited.",https://seekingalpha.com/market_currents.xml,rss,Business & Economy
+Business Insider,,https://www.youtube.com/feeds/videos.xml?user=businessinsider,rss,Business & Economy
+Duct Tape Marketing,"Interviews with authors, experts and thought leaders sharing business marketing tips, tactics and resources hosted by one America's leading small business marketing experts - John Jantsch",https://ducttape.libsyn.com/rss,rss,Business & Economy
+Economic Times,"The Economic Times: Latest business, finance, markets, stocks, company news from India.",https://economictimes.indiatimes.com/rssfeedsdefault.cms,rss,Business & Economy
+Forbes - Business,Forbes - Business,https://www.forbes.com/business/feed/,rss,Business & Economy
+Fortune,Fortune 500 Daily & Breaking Business News,https://fortune.com/feed,rss,Business & Economy
+HBR IdeaCast,A weekly podcast featuring the leading thinkers in business and management.,http://feeds.harvardbusiness.org/harvardbusiness/ideacast,rss,Business & Economy
+Home Page,"Business News: Get latest stock share market news, financial news, economy news, company news, politics news, India news, breaking news, Indian economy news at Business Standard. Catch Nifty Sensex Live updates.",https://www.business-standard.com/rss/home_page_top_stories.rss,rss,Business & Economy
+Startup Stories - Mixergy,Business tips for startups by proven entrepreneurs,https://feeds.feedburner.com/Mixergy-main-podcast,rss,Business & Economy
+The Blog of Author Tim Ferriss,"Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)",https://tim.blog/feed/,rss,Business & Economy
+The Growth Show,"It’s never been easier to start a business, but it’s even harder to succeed. Each episode explores the inspiring stories behind how people grow a business, an idea, or a movement.",http://thegrowthshow.hubspot.libsynpro.com/,rss,Business & Economy
+US Top News and Analysis,"CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information.",https://www.cnbc.com/id/100003114/device/rss/rss.html,rss,Business & Economy
+Yahoo Finance,"At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.",https://finance.yahoo.com/news/rssindex,rss,Business & Economy
+"/r/space: news, articles and discussion",Share & discuss informative content on: * Astrophysics * Cosmology * Space Exploration * Planetary Science * Astrobiology,https://www.reddit.com/r/space/.rss?format=xml,rss,Space
+NASA Breaking News,A RSS news feed containing the latest NASA news articles and press releases.,https://www.nasa.gov/rss/dyn/breaking_news.rss,rss,Space
+New Scientist - Space,New Scientist - Space,https://www.newscientist.com/subject/space/feed/,rss,Space
+Sky & Telescope,The essential guide to astronomy,https://www.skyandtelescope.com/feed/,rss,Space
+Space | The Guardian,"Latest news and features from theguardian.com, the world's leading liberal voice",https://www.theguardian.com/science/space/rss,rss,Space
+Space.com,"Get the latest space exploration, innovation and astronomy news. Space.com celebrates humanity's ongoing expansion across the final frontier.",https://www.space.com/feeds/all,rss,Space
+SpaceX,,https://www.youtube.com/feeds/videos.xml?user=spacexchannel,rss,Space
+Atlas Obscura - Latest Articles and Places,New wonders and curiosities added to the Atlas.,https://www.atlasobscura.com/feeds/latest,rss,Travel
+Live Life Travel,Your travel partner for life,https://www.livelifetravel.world/feed/,rss,Travel
+Lonely Planet Travel News,Travel news and more from Lonely Planet,https://www.lonelyplanet.com/news/feed/atom/,rss,Travel
+NYT > Travel,,https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml,rss,Travel
+Nomadic Matt's Travel Site,"Travel Better, Cheaper, Longer",https://www.nomadicmatt.com/travel-blog/feed/,rss,Travel
+Travel | The Guardian,"Latest travel news and reviews on UK and world holidays, travel guides to global destinations, city breaks, hotels and restaurant information from the Guardian, the world's leading liberal voice",https://www.theguardian.com/uk/travel/rss,rss,Travel
+Afford Anything,You Can Afford Anything ... Just Not Everything. What's It Gonna Be?,https://affordanything.com/feed/,rss,Personal finance
+Blog – Student Loan Hero,,https://studentloanhero.com/blog/feed,rss,Personal finance
+Budgets Are Sexy,,https://feeds2.feedburner.com/budgetsaresexy,rss,Personal finance
+Financial Samurai,Slicing Through Money's Mysteries,https://www.financialsamurai.com/feed/,rss,Personal finance
+Frugalwoods,Financial independence and simple living,https://feeds.feedburner.com/Frugalwoods,rss,Personal finance
+Get Rich Slowly,personal finance that makes cents,https://www.getrichslowly.org/feed/,rss,Personal finance
+Good Financial Cents®,Making Cents Of Investing and Financial Planning,https://www.goodfinancialcents.com/feed/,rss,Personal finance
+I Will Teach You To Be Rich,by Ramit Sethi,https://www.iwillteachyoutoberich.com/feed/,rss,Personal finance
+Learn To Trade The Market,Learn Price Action Trading with Nial Fuller,https://www.learntotradethemarket.com/feed,rss,Personal finance
+Making Sense Of Cents,"Learn how to make extra money, how to save money, how to start a blog, and more.",https://www.makingsenseofcents.com/feed,rss,Personal finance
+Millennial Money,Next Level Personal Finance,https://millennialmoney.com/feed/,rss,Personal finance
+MintLife Blog,Personal Finance News & Advice,https://blog.mint.com/feed/,rss,Personal finance
+Money Crashers,Personal Finance Guide to Turn the Tables on Money,https://www.moneycrashers.com/feed/,rss,Personal finance
+Money Saving Mom®,Saving Families Money Since 2007,https://moneysavingmom.com/feed/,rss,Personal finance
+Money Under 30,Just another Word Press site,https://www.moneyunder30.com/feed,rss,Personal finance
+MoneyNing,"Sharing insights since 2007 on carefully saving money, investing, frugal living, coupons, promo codes because the little things matter in achieving financial freedom!",http://feeds.feedburner.com/MoneyNing,rss,Personal finance
+MyWifeQuitHerJob.com,Starting An Online Store So Your Spouse Can Quit And Stay At Home With The Kids,https://mywifequitherjob.com/feed/,rss,Personal finance
+Nerd's Eye View | Kitces.com,Commentary from Michael Kitces on Financial Planning News & Strategies,http://feeds.feedblitz.com/kitcesnerdseyeview&x=1,rss,Personal finance
+NerdWallet,"NerdWallet is a free tool to find you the best credit cards, cd rates, savings, checking accounts, scholarships, healthcare and airlines. Start here to maximize your rewards or minimize your interest rates.",https://www.nerdwallet.com/blog/feed/,rss,Personal finance
+Oblivious Investor,Low-Maintenance Investing with Index Funds and ETFs,https://obliviousinvestor.com/feed/,rss,Personal finance
+Personal Finance,"Learn about budgeting, saving, getting out of debt, credit, investing, and retirement planning. Join our community, read the PF Wiki, and get on top of your finances!",https://reddit.com/r/personalfinance/.rss,rss,Personal finance
+SavingAdvice.com Blog,Bridging the gap between saving money and investing,https://www.savingadvice.com/feed/,rss,Personal finance
+Side Hustle Nation,Amplify your earning power,https://www.sidehustlenation.com/feed,rss,Personal finance
+The College Investor,"Student Loans, Investing, Building Wealth",https://thecollegeinvestor.com/feed/,rss,Personal finance
+The Dough Roller,Money Management and Personal Finance | The Dough Roller,https://www.doughroller.net/feed/,rss,Personal finance
+The Penny Hoarder,"The Penny Hoarder is one of the largest personal finance websites in America, receiving millions of visitors each month looking to make and save extra money.",https://www.thepennyhoarder.com/feed/,rss,Personal finance
+Well Kept Wallet,,https://wellkeptwallet.com/feed/,rss,Personal finance
+Wise Bread,Living large on a small budget,http://feeds.killeraces.com/wisebread,rss,Personal finance
+Billboard,Just another WordPress site,https://www.billboard.com/articles/rss.xml,rss,Music
+Consequence,"Music, Film, TV and Pop Culture News for the Mainstream and Underground",http://consequenceofsound.net/feed,rss,Music
+"EDM.com - The Latest Electronic Dance Music News, Reviews & Artists","The world's foremost authority on EDM : free music downloads, artist interviews, industry news, curated playlists, trending charts, and more.",https://edm.com/.rss/full/,rss,Music
+Metal Injection,"Heavy metal news, metal music videos, tour dates, live footage, exclusive documentaries, funny clips and more.",http://feeds.feedburner.com/metalinjection,rss,Music
+Music Business Worldwide,"News, jobs and analysis for the global music industry",https://www.musicbusinessworldwide.com/feed/,rss,Music
+RSS: News,News content RSS feed,http://pitchfork.com/rss/news,rss,Music
+Song Exploder,"A podcast where musicians take apart their songs, and piece by piece, tell the story of how they were made.",http://songexploder.net/feed,rss,Music
+Your EDM,EDM News & Electronic Dance Music Reviews,https://www.youredm.com/feed,rss,Music
+All About Android (Audio),"All About Android delivers everything you want to know about Android each week--the biggest news, freshest hardware, best apps and geekiest how-tos--with Android enthusiasts Jason Howell, Florence Ion, Ron Richards, and a variety of special guests along the way. Records live every Tuesday at 8:00pm Eastern / 5:00pm Pacific / 00:00 (Wed) UTC.",https://feeds.twit.tv/aaa.xml,rss,Android
+Android,Android,https://blog.google/products/android/rss,rss,Android
+Android,"Android news, reviews, tips, and discussions about rooting, tutorials, and apps. Generic discussion about phones/tablets is allowed, but technical-support, upgrade related questions or buy/sell posts, app recommendations and carrier-related issues should be asked in their respective subreddits!",https://www.reddit.com/r/android/.rss,rss,Android
+Android Authority,"Android News, Reviews, How To",https://www.androidauthority.com/feed,rss,Android
+Android Authority,,https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority,rss,Android
+Android Authority Podcast,"The Android Authority Podcast - discussing topics in Android every week.  The Android Authority Podcast brings you all the top stories and features based on your favorite mobile operating system: Android. We help make Android more accessible to all, and dive deeper into the details when we can, there's something in here for everyone.  Check out androidauthority.com for all the best news and reviews for your favorite phones and tablets, then join our community forums to join in on the discussion. Don't forget to hit our YouTube channel for even more.",https://androidauthority.libsyn.com/rss,rss,Android
+"Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",,http://feeds.androidcentral.com/androidcentral,rss,Android
+Android Central Podcast,The Android and Google Podcast for Everyone. Hosted by Daniel Bader.,http://feeds.feedburner.com/AndroidCentralPodcast,rss,Android
+Android Community,"Android News, Reviews, and Apps",https://androidcommunity.com/feed/,rss,Android
+"Android Police - Android news, reviews, apps, games, phones, tablets",Looking after everything Android,http://feeds.feedburner.com/AndroidPolice,rss,Android
+AndroidGuys,Android news and opinion,https://www.androidguys.com/feed,rss,Android
+Cult of Android,Breaking news for Android fans,https://www.cultofandroid.com/feed,rss,Android
+Cyanogen Mods,Mod APK | GCam | LineageOS,https://www.cyanogenmods.org/feed,rss,Android
+Droid Life,Opinionated Android news.,https://www.droid-life.com/feed,rss,Android
+GSMArena.com - Latest articles,GSMArena.com is the ultimate resource for GSM handset information. This feed contains the latest articles (news and reviews) in chronological order.,https://www.gsmarena.com/rss-news-reviews.php3,rss,Android
+Phandroid,"Android Phone News, Rumors, Reviews, Apps, Forums & More!",http://feeds2.feedburner.com/AndroidPhoneFans,rss,Android
+TalkAndroid,"The latest in android news, rumours, and updates, including device news and apps!",http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums,rss,Android
+xda-developers,Android and Windows Phone Development Community,https://data.xda-developers.com/portal-feed,rss,Android
+Beauty - ELLE,,https://www.elle.com/rss/beauty.xml/,rss,Beauty
+Beauty - Fashionista,Beauty - Fashionista,https://fashionista.com/.rss/excerpt/beauty,rss,Beauty
+Beauty – Indian Fashion Blog,,https://www.fashionlady.in/category/beauty-tips/feed,rss,Beauty
+Blog – The Beauty Brains,Real scientists answer your beauty questions,https://thebeautybrains.com/blog/feed/,rss,Beauty
+DORÉ,,https://www.wearedore.com/feed,rss,Beauty
+From Head To Toe,A makeup and beauty blog by Jen ,http://feeds.feedburner.com/frmheadtotoe,rss,Beauty
+"Into The Gloss - Beauty Tips, Trends, And Product Reviews","The best in beauty tips, makeup tutorials, product reviews, and techniques from industry leaders worldwide. Into The Gloss is beauty, from the Inside.",https://feeds.feedburner.com/intothegloss/oqoU,rss,Beauty
+POPSUGAR Beauty,Top Beauty Stories,https://www.popsugar.com/beauty/feed,rss,Beauty
+Refinery29,Refinery29,https://www.refinery29.com/beauty/rss.xml,rss,Beauty
+THE YESSTYLIST – Asian Fashion Blog – brought to you by YesStyle.com,,https://www.yesstyle.com/blog/category/the-beauty-blog/feed/,rss,Beauty
+The Beauty Look Book,"Beauty Blog, Reviews + Makeup Looks",https://thebeautylookbook.com/feed,rss,Beauty
+A List Apart: The Full Feed,Articles for people who make web sites.,https://alistapart.com/main/feed/,rss,Web Development
+CSS-Tricks,"Tips, Tricks, and Techniques on using Cascading Style Sheets.",https://css-tricks.com/feed/,rss,Web Development
+Code Wall,Web Development & Programming,https://www.codewall.co.uk/feed/,rss,Web Development
+David Walsh Blog,"A blog featuring tutorials about JavaScript, HTML5, AJAX, PHP, CSS, WordPress, and everything else development.",https://davidwalsh.name/feed,rss,Web Development
+Mozilla Hacks - the Web developer blog,hacks.mozilla.org,https://hacks.mozilla.org/feed/,rss,Web Development
+Sink In - Tech and Travel,Sink In - Tech and Travel,https://gosink.in/rss/,rss,Web Development
+Updates,"The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more.",https://developers.google.com/web/updates/rss.xml,rss,Web Development
+/Film,Movie News and Reviews This feed is for non commercial use. Content Copyright Slashfilm.com.,https://feeds2.feedburner.com/slashfilm,rss,Movies
+Ain't It Cool News Feed,"The best in movie, TV, DVD and comic book news.",https://www.aintitcool.com/node/feed/,rss,Movies
+ComingSoon.net,"New Movies, Movie Trailers, TV, Streaming, Anime & Video Game News",https://www.comingsoon.net/feed,rss,Movies
+Deadline,Hollywood Entertainment Breaking News,https://deadline.com/feed/,rss,Movies
+Film School Rejects,"Movies, TV, and Culture",https://filmschoolrejects.com/feed/,rss,Movies
+FirstShowing.net,Connecting Hollywood with its Audience,https://www.firstshowing.net/feed/,rss,Movies
+IndieWire,The Voice of Creative Independence,https://www.indiewire.com/feed,rss,Movies
+Movie News and Discussion,News & Discussion about Major Motion Pictures,https://reddit.com/r/movies/.rss,rss,Movies
+Movies,"Comics, Movies, TV, Games",https://www.bleedingcool.com/movies/feed/,rss,Movies
+The A.V. Club,Pop culture obsessives writing for the pop culture obsessed.,https://film.avclub.com/rss,rss,Movies
+Variety,,https://variety.com/feed/,rss,Movies
+Articles on Smashing Magazine - For Web Designers And Developers,Recent content in Articles on Smashing Magazine - For Web Designers And Developers,https://www.smashingmagazine.com/feed,rss,UI - UX
+Boxes and Arrows,The design behind the design.,http://boxesandarrows.com/rss/,rss,UI - UX
+Designer News Feed,All of the stories from the frontpage of Designer News,https://www.designernews.co/?format=rss,rss,UI - UX
+Inside Design,"Thoughts on users, experience, and design",https://www.invisionapp.com/inside-design/feed,rss,UI - UX
+JUST™ Creative,"Logo Designer, Graphic Designer, Graphic Design Portfolio, Logo Design, Logo, Graphic, Design, Graphic Design, Brand Strategy, Branding",https://feeds.feedburner.com/JustCreativeDesignBlog,rss,UI - UX
+NN/g latest articles and announcements,The latest articles and announcements from Nielsen Norman Group,https://www.nngroup.com/feed/rss/,rss,UI - UX
+UX Blog - UX Studio,UX design blog about designing user experience for web and mobile apps with UX research and focus on usability and ergonomics,https://uxstudioteam.com/ux-blog/feed/,rss,UI - UX
+UX Collective - Medium,"We believe designers are thinkers as much as they are makers. Curated stories on UX, Visual & Product Design. - Medium",https://uxdesign.cc/feed,rss,UI - UX
+UX Movement,,https://uxmovement.com/feed/,rss,UI - UX
+Usability Geek,Usability & User Experience (UX) Blog,https://usabilitygeek.com/feed/,rss,UI - UX
+User Experience,"User experience design is the process of enhancing user satisfaction by improving the usability, ease of use, and pleasure provided in the interaction between the user and the product. ‎‎‎‎‎ ‎ ‎ User experience design encompasses traditional human-computer interaction design (HCI/d), and extends it by addressing all aspects of a product or service as perceived by users.",https://www.reddit.com/r/userexperience/.rss,rss,UI - UX
+TV,"Comics, Movies, TV, Games",https://www.bleedingcool.com/tv/feed/,rss,Television
+TV Fanatic,,https://www.tvfanatic.com/rss.xml,rss,Television
+TVLine,"TV News, Previews, Spoilers, Casting Scoop, Interviews",https://tvline.com/feed/,rss,Television
+Television News and Discussion,‎,https://reddit.com/r/television/.rss,rss,Television
+The A.V. Club,Pop culture obsessives writing for the pop culture obsessed.,https://tv.avclub.com/rss,rss,Television
+the TV addict,"TV News, Previews, Spoilers and Reviews",http://feeds.feedburner.com/thetvaddict/AXob,rss,Television
+Accidental Tech Podcast,"Three nerds discussing tech, Apple, programming, and loosely related matters.",https://atp.fm/rss,rss,Tech
+Analog(ue),"So many podcasts are about our digital devices. Analog(ue) is a show about how these devices make us feel and how they change our lives for the better, but also for the worse. Hosted by Casey Liss and Myke Hurley.",https://www.relay.fm/analogue/feed,rss,Tech
+Ars Technica,"Serving the Technologist for more than a decade. IT news, reviews, and analysis.",http://feeds.arstechnica.com/arstechnica/index,rss,Tech
+CNET,,https://www.youtube.com/feeds/videos.xml?user=CNETTV,rss,Tech
+CNET News,"CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events.",https://www.cnet.com/rss/news/,rss,Tech
+Clockwise,"Clockwise is a rapid-fire discussion of current technology issues hosted by Dan Moren and Mikah Sargent and featuring two special guests each week. Four people, four topics--and because we're always watching the clock, no episode is longer than 30 minutes. Hosted by Dan Moren and Mikah Sargent.",https://www.relay.fm/clockwise/feed,rss,Tech
+Gizmodo,We come from the future,https://gizmodo.com/rss,rss,Tech
+Hacker News,"Links for the intellectually curious, ranked by readers.",https://news.ycombinator.com/rss,rss,Tech
+Lifehacker,Do everything better,https://lifehacker.com/rss,rss,Tech
+Linus Tech Tips,,https://www.youtube.com/feeds/videos.xml?user=LinusTechTips,rss,Tech
+Marques Brownlee,,https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee,rss,Tech
+Mashable,"Mashable is a leading source for news, information & resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's 25 million monthly unique visitors and 10 million social media followers have become one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.",http://feeds.mashable.com/Mashable,rss,Tech
+ReadWrite,The Blog of Things,https://readwrite.com/feed/,rss,Tech
+Reply All,,https://feeds.megaphone.fm/replyall,rss,Tech
+Rocket,"Countdown to excitement! Every week Christina Warren, Brianna Wu and Simone de Rochefort have accelerated geek conversation. Tech, comics, movies, games and books, no galaxy is off limits! Hosted by Christina Warren, Brianna Wu, and Simone De Rochefort.",https://www.relay.fm/rocket/feed,rss,Tech
+Slashdot,"News for nerds, stuff that matters",http://rss.slashdot.org/Slashdot/slashdotMain,rss,Tech
+Stratechery by Ben Thompson,"On the business, strategy, and impact of technology.",http://stratechery.com/feed/,rss,Tech
+TechCrunch,"TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web.",http://feeds.feedburner.com/TechCrunch,rss,Tech
+The Keyword,The Keyword,https://www.blog.google/rss/,rss,Tech
+The Next Web,Original and proudly opinionated perspectives for Generation T,https://thenextweb.com/feed/,rss,Tech
+The Verge,,https://www.youtube.com/feeds/videos.xml?user=TheVerge,rss,Tech
+The Verge -  All Posts,,https://www.theverge.com/rss/index.xml,rss,Tech
+The Vergecast,"Hello! This is The Vergecast, the flagship podcast of The Verge... and your life. Every Friday, Nilay Patel and Dieter Bohn make sense of the week's tech news with help from our wide-ranging staff. And on Tuesdays, Nilay hosts in-depth, one-on-one interviews with major technology leaders. Join us every week for a fun, deeply nerdy, often off-the-rails conversation about what's happening now (and next) in technology and gadgets.",https://feeds.megaphone.fm/vergecast,rss,Tech
+This Week in Tech (Audio),Your first podcast of the week is the last word in tech. Join the top tech pundits in a roundtable discussion of the latest trends in high tech. Records live every Sunday at 5:15pm Eastern / 2:15pm Pacific / 21:15 UTC.,https://feeds.twit.tv/twit.xml,rss,Tech
+Unbox Therapy,,https://www.youtube.com/feeds/videos.xml?user=unboxtherapy,rss,Tech
+https://www.engadget.com/,https://www.engadget.com/,https://www.engadget.com/rss.xml,rss,Tech
+Autoblog,Autoblog,https://www.autoblog.com/rss.xml,rss,Cars
+Autocar India - All Bike Reviews,"Car and Bike news, reviews and videos.",https://www.autocarindia.com/RSS/rss.ashx?type=all_bikes,rss,Cars
+Autocar India - All Car Reviews,"Car and Bike news, reviews and videos.",https://www.autocarindia.com/RSS/rss.ashx?type=all_cars,rss,Cars
+Autocar India - News,"Car and Bike news, reviews and videos.",https://www.autocarindia.com/RSS/rss.ashx?type=News,rss,Cars
+Autocar RSS Feed,"Welcome to nirvana for car enthusiasts. You have just entered the online home of the world's oldest car magazine, and the only place on the internet where you can find Autocar's unique mix of up-to-the-minute news, red hot car reviews, conclusive road test verdicts, and a lot more besides.",https://www.autocar.co.uk/rss,rss,Cars
+BMW BLOG,"BMW News, Reviews, Test Drives, Photos And Videos",https://feeds.feedburner.com/BmwBlog,rss,Cars
+Bike EXIF,"The world's most exciting custom motorcycles, from cafe racers to bobbers to scramblers and street trackers.",https://www.bikeexif.com/feed,rss,Cars
+Car Body Design,"Car Design Resources, News and Tutorials",https://www.carbodydesign.com/feed/,rss,Cars
+Carscoops,"Breaking Car News, Scoops & Reviews",https://www.carscoops.com/feed/,rss,Cars
+Formula 1,"The best independent Formula 1 community anywhere. News, stories and discussion from and about the world of Formula 1.",https://www.reddit.com/r/formula1/.rss,rss,Cars
+Jalopnik,Kinja RSS,https://jalopnik.com/rss,rss,Cars
+Latest Content - Car and Driver,,https://www.caranddriver.com/rss/all.xml/,rss,Cars
+Petrolicious,Petrolicious is a leading automotive lifestyle brand providing world class short films and tasteful editorial around the world's finest classic vehicles.,https://petrolicious.com/feed,rss,Cars
+Section Page News - Automotive News,Section Page news and features from Automotive News,http://feeds.feedburner.com/autonews/AutomakerNews,rss,Cars
+Section Page News - Automotive News,Section Page news and features from Automotive News,http://feeds.feedburner.com/autonews/EditorsPicks,rss,Cars
+Speedhunters,Global Car Culture Since 2008,http://feeds.feedburner.com/speedhunters,rss,Cars
+The Truth About Cars,"The Truth About Cars is dedicated to providing candid, unbiased automobile reviews and the latest in auto industry news.",https://www.thetruthaboutcars.com/feed/,rss,Cars
+The best vintage and classic cars for sale online | Bring a Trailer,"Barn finds, rally cars, and needles in the haystack.",https://bringatrailer.com/feed/,rss,Cars
+BBC Sport - Cricket,BBC Sport - Cricket,http://feeds.bbci.co.uk/sport/cricket/rss.xml,rss,Cricket
+Can't Bowl Can't Throw Cricket Show,"The second season of the Can't Bowl Can't Throw Cricket Show, in which we talk about cricket on a podcast. In a second season.",http://feeds.feedburner.com/cantbowlcantthrow,rss,Cricket
+Cricbuzz,,https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw,rss,Cricket
+Cricket,"News, banter and occasional serious discussion on the great game.",https://www.reddit.com/r/Cricket/.rss,rss,Cricket
+Cricket news from ESPN Cricinfo.com,"Visit Cricinfo.com for up-to-the-minute cricket news, breaking cricket news, live cricket commentary, ball-by-ball commentary, cricket video, cricket audio and features.",http://www.espncricinfo.com/rss/content/story/feeds/0.xml,rss,Cricket
+Cricket | The Guardian,"Latest news and features from theguardian.com, the world's leading liberal voice",https://www.theguardian.com/sport/cricket/rss,rss,Cricket
+Cricket – The Roar,Australia's Biggest Sporting Debate,https://www.theroar.com.au/cricket/feed/,rss,Cricket
+England & Wales Cricket Board,,https://www.youtube.com/feeds/videos.xml?user=ecbcricket,rss,Cricket
+NDTV Sports - Cricket,"NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more.",http://feeds.feedburner.com/ndtvsports-cricket,rss,Cricket
+Pakistan Cricket,,https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw,rss,Cricket
+Sky Sports Cricket Podcast,Sky's pundits analyse and debate the big stories emerging from international and domestic cricket. Join in the debate on Twitter @SkyCricket.,https://www.spreaker.com/show/3387348/episodes/feed,rss,Cricket
+Sri Lanka Cricket,,https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC,rss,Cricket
+Stumped,The weekly cricket show from BBC Sport in association with ABC and All India Radio.,https://podcasts.files.bbci.co.uk/p02gsrmh.rss,rss,Cricket
+Switch Hit Podcast,Lively debate and discussion about the game on and off the field with a focus on English cricket. Featuring former England batsman Mark Butcher alongside ESPNcricinfo's writers and reporters.,https://feeds.megaphone.fm/ESP9247246951,rss,Cricket
+Tailenders,"Greg James, Jimmy Anderson and Felix White with an alternative (and sometimes musical) look at cricket...",https://podcasts.files.bbci.co.uk/p02pcb4w.rss,rss,Cricket
+Test Match Special,Insight and analysis from the Test Match Special team - including interviews with top players and special features.,https://podcasts.files.bbci.co.uk/p02nrsl2.rss,rss,Cricket
+The Grade Cricketer,"Cricket is great if you're into things like wasted youth, failed relationships, sun damage and broken dreams. A weekly show featuring news, views and interviews with major names from across the cricket scene.",https://rss.whooshkaa.com/rss/podcast/id/1308,rss,Cricket
+Wisden,The independent voice of cricket,https://www.wisden.com/feed,rss,Cricket
+Wisden Cricket Weekly,"Join Mark Butcher, Yas Rana and the rest of the Wisden Cricket Weekly Podcast team for a weekly reflection on all the big stories from the game that week.",http://feeds.soundcloud.com/users/soundcloud:users:341034518/sounds.rss,rss,Cricket
+cricket.com.au,,https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv,rss,Cricket
+101 Cookbooks,"When you own over 100 cookbooks, it is time to stop buying, and start cooking. This site chronicles a cookbook collection, one recipe at a time.",https://www.101cookbooks.com/feed,rss,Food
+Babish Culinary Universe,,https://www.youtube.com/feeds/videos.xml?user=bgfilms,rss,Food
+Bon Appétit,,https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom,rss,Food
+Chocolate & Zucchini,Simple Recipes from my Paris Kitchen,https://cnz.to/feed/,rss,Food
+David Lebovitz,Baking and cooking recipes for everyone,https://www.davidlebovitz.com/feed/,rss,Food
+Food52,"Eat thoughtfully, live joyfully.",http://feeds.feedburner.com/food52-TheAandMBlog,rss,Food
+Green Kitchen Stories,Healthy Vegetarian Recipes.,https://greenkitchenstories.com/feed/,rss,Food
+How Sweet Eats,"For people who, like, totally love food.",https://www.howsweeteats.com/feed/,rss,Food
+Joy the Baker,,http://joythebaker.com/feed/,rss,Food
+"Kitchn | Inspiring cooks, nourishing homes","Inspiring cooks, nourishing homes",https://www.thekitchn.com/main.rss,rss,Food
+Laura in the Kitchen,,https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen,rss,Food
+Love and Olive Oil,Eat to Live. Cook to Love.,https://www.loveandoliveoil.com/feed,rss,Food
+NYT > Food,,https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml,rss,Food
+Oh She Glows,Vegan Recipes to Glow From The Inside Out,https://ohsheglows.com/feed/,rss,Food
+Serious Eats,,https://www.youtube.com/feeds/videos.xml?user=SeriousEats,rss,Food
+Serious Eats: Recipes,"Our Favorite Recipes, Curated and Collected",http://feeds.feedburner.com/seriouseats/recipes,rss,Food
+Shutterbean,"food, photography & inspiration",http://www.shutterbean.com/feed/,rss,Food
+Skinnytaste,Delicious Healthy Recipes Made with Real Food,https://www.skinnytaste.com/feed/,rss,Food
+Sprouted Kitchen,,https://www.sproutedkitchen.com/home?format=rss,rss,Food
+Williams-Sonoma Taste,,https://blog.williams-sonoma.com/feed/,rss,Food
+smitten kitchen,Fearless cooking from a tiny NYC kitchen.,http://feeds.feedburner.com/smittenkitchen,rss,Food
+"Apartment Therapy| Saving the world, one room at a time","Saving the world, one room at a time",https://www.apartmenttherapy.com/design.rss,rss,Interior design
+Better Living Through Design,Better Living Through Design ™ -- Your Design Guide to Home & Style.,http://www.betterlivingthroughdesign.com/feed/,rss,Interior design
+Core77,"Launched in 1995, Core77 serves a devoted global audience of design professionals, corporations, students, enthusiasts and fans.",http://feeds.feedburner.com/core77/blog,rss,Interior design
+Design MilkInterior Design – Design Milk,Dedicated to modern design,https://design-milk.com/category/interior-design/feed/,rss,Interior design
+Fubiz Media,"The latest creative news from Fubiz about art, design and pop-culture.",http://feeds.feedburner.com/fubiz,rss,Interior design
+Ideal Home,,https://www.idealhome.co.uk/feed,rss,Interior design
+In My Own Style,Top Budget DIY Home Decorating Blog + Creative Lifestyle Ideas + Tutorials.,https://inmyownstyle.com/feed,rss,Interior design
+"Inhabitat - Green Design, Innovation, Architecture, Green Building",Green design & innovation for a better world,https://inhabitat.com/design/feed/,rss,Interior design
+Interior Design (Interior Architecture),"Interior Design is the art and science of understanding people's behavior to create functional spaces within a building. It is a multi-faceted profession in which creative and technical solutions are applied within a structure to achieve a built interior environment. These solutions are functional, enhance the quality of life and culture of the occupants and are aesthetically attractive.",https://www.reddit.com/r/InteriorDesign/.rss,rss,Interior design
+Interior Design Ideas,Inspirational Interior Design Ideas,http://www.home-designing.com/feed,rss,Interior design
+Interior Design Latest,Latest content from interiordesign.net,https://www.interiordesign.net/rss/,rss,Interior design
+Interiors – Dezeen,architecture and design magazine,https://www.dezeen.com/interiors/feed/,rss,Interior design
+Liz Marie Blog,,https://www.lizmarieblog.com/feed/,rss,Interior design
+The Design Files | Australia's most popular design blog.The Design Files | Australia's most popular design blog.,Australia's most popular design blog.,https://thedesignfiles.net/feed/,rss,Interior design
+The Inspired Room,"Voted Readers' Favorite Top Decorating Blog Better Homes and Gardens, Decorating Ideas, How to Organize, How to Decorate, Interior Design Blog",https://theinspiredroom.net/feed/,rss,Interior design
+Thrifty Decor Chick,"Thrifty decorating blog with easy DIY, decor, entertaining and organizing ideas. Make your home beautiful for less.",http://feeds.feedburner.com/blogspot/ZBcZ,rss,Interior design
+Trendir,The Latest Trends in Modern House Design and Decorating,https://www.trendir.com/feed/,rss,Interior design
+Yanko Design,Modern Industrial Design News,http://feeds.feedburner.com/yankodesign,rss,Interior design
+Yatzer RSS Feed,,https://www.yatzer.com/rss.xml,rss,Interior design
+Young House Love,"DIY Home Decorating Projects, Tutorials, & Shenanigans",https://www.younghouselove.com/feed/,rss,Interior design
+decoist,Obsessed with the cult of beauty,https://www.decoist.com/feed/,rss,Interior design
+design – designboom | architecture & design magazine,"designboom magazine | your first source for architecture, design & art news",https://www.designboom.com/design/feed,rss,Interior design
+sfgirlbybay,bohemian modern style from a san francisco girl.,https://www.sfgirlbybay.com/feed/,rss,Interior design
+AwkwardFamilyPhotos.com,Spreading the Awkwardness,https://awkwardfamilyphotos.com/feed/,rss,Funny
+Cracked: All Posts,Every post that goes up on Cracked.com,http://feeds.feedburner.com/CrackedRSS,rss,Funny
+Explosm.net,"Flash Animations, Daily Comics and more!",http://feeds.feedburner.com/Explosm,rss,Funny
+FAIL Blog,The internet has generated a huge amount of laughs from cats and FAILS. And we all out of cats.,http://feeds.feedburner.com/failblog,rss,Funny
+I Can Has Cheezburger?,World's largest collection of cat memes and other animals,http://feeds.feedburner.com/icanhascheezburger,rss,Funny
+PHD Comics,Providing global up-to-the-minute procrastination!,http://phdcomics.com/gradfeed.php,rss,Funny
+Penny Arcade,News Fucker 6000,https://www.penny-arcade.com/feed,rss,Funny
+PostSecret,,https://postsecret.com/feed/?alt=rss,rss,Funny
+Saturday Morning Breakfast Cereal,Latest Saturday Morning Breakfast Cereal comics and news,https://www.smbc-comics.com/comic/rss,rss,Funny
+The Bloggess,"Like Mother Teresa, only better.",https://thebloggess.com/feed/,rss,Funny
+The Daily WTF,Curious Perversions in Information Technology,http://syndication.thedailywtf.com/TheDailyWtf,rss,Funny
+The Oatmeal - Comics by Matthew Inman,"I make comics about science, cats, technology, and sometimes goats.",http://feeds.feedburner.com/oatmealfeed,rss,Funny
+The Onion,America's Finest News Source.,https://www.theonion.com/rss,rss,Funny
+xkcd.com,xkcd.com: A webcomic of romance and math humor.,https://xkcd.com/rss.xml,rss,Funny
+ALL SHOWS - Devchat.tv,,https://feeds.feedwrench.com/all-shows-devchattv.rss,rss,iOS Development
+Alberto De Bortoli,"Principal Software Engineer @ Just Eat Takeaway. Based in London, made in Italy.",https://albertodebortoli.com/rss/,rss,iOS Development
+Augmented Code,"Performant, sleek and elegant.",https://augmentedcode.io/feed/,rss,iOS Development
+"Benoit Pasquier - Swift, Data and more","Recent content on Benoit Pasquier - Swift, Data and more",https://benoitpasquier.com/index.xml,rss,iOS Development
+Fabisevi.ch,iOS Developer [@Twitter](https://twitter.com/mergesort),https://www.fabisevi.ch/feed.xml,rss,iOS Development
+Mobile A11y,Recent content on Mobile A11y,https://mobilea11y.com/index.xml,rss,iOS Development
+"More Than Just Code podcast - iOS and Swift development, news and advice","MTJC podcast is a show about mobile development. Each week Jaime Lopez, Mark Rubin (sometimes Greg Heo and Tammy Coron) and myself, Tim Mitra, will convene from across the continent to discuss iOS and Mac development. We discuss current issues to find out what developers are talking about, what their apps are about, what they are using to create their apps and what advice they have for other developers (or those looking to become one). We also have news, notes and tech tips for developers.",https://feeds.fireside.fm/mtjc/rss,rss,iOS Development
+News - Apple Developer,,https://developer.apple.com/news/rss/news.rss,rss,iOS Development
+Ole Begemann,,https://oleb.net/blog/atom.xml,rss,iOS Development
+Pavel Zak's dev blog,Yet another dev blog,https://nerdyak.tech/feed.xml,rss,iOS Development
+Swift by Sundell,"Weekly Swift articles, podcasts and tips by John Sundell",https://www.swiftbysundell.com/feed.rss,rss,iOS Development
+Swift by Sundell,"Weekly Swift articles, podcasts and tips by John Sundell",https://swiftbysundell.com/feed.rss,rss,iOS Development
+SwiftRocks,SwiftRocks is a blog about how Swift works and general iOS tips and tricks.,https://swiftrocks.com/rss.xml,rss,iOS Development
+The Atomic Birdhouse,Recent content on The Atomic Birdhouse,https://atomicbird.com/index.xml,rss,iOS Development
+Under the Radar,"From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes. Hosted by Marco Arment and David Smith.",https://www.relay.fm/radar/feed,rss,iOS Development
+Use Your Loaf - iOS Development News & Tips,Recent content on Use Your Loaf - iOS Development News & Tips,https://useyourloaf.com/blog/rss.xml,rss,iOS Development
+inessential.com,Brent Simmons's weblog.,https://inessential.com/xml/rss.xml,rss,iOS Development
+tyler.io,,https://tyler.io/feed/,rss,iOS Development
+A Beautiful Mess,"Crafts, Home Décor, Recipes",https://abeautifulmess.com/feed,rss,DIY
+"Apartment Therapy| Saving the world, one room at a time","Saving the world, one room at a time",https://www.apartmenttherapy.com/projects.rss,rss,DIY
+Blog - Hackaday,Fresh hacks every day,https://hackaday.com/blog/feed/,rss,DIY
+Centsational Style,"Design, Decorating & DIY",https://centsationalstyle.com/feed/,rss,DIY
+Doityourself.com,"Do it yourself home improvement and diy repair at Doityourself.com. Includes home improvement projects, home repair, kitchen remodeling, plumbing, electrical, painting, real estate, and decorating.",https://www.doityourself.com/feed,rss,DIY
+Etsy Journal,Ideas and inspiration for creative living.,https://blog.etsy.com/en/feed/,rss,DIY
+How-To Geek,We Explain Technology,https://www.howtogeek.com/feed/,rss,DIY
+IKEA Hackers,Clever ideas and hacks for your IKEA,https://www.ikeahackers.net/feed,rss,DIY
+MUO - Feed,MUO is your guide in modern tech. Learn how to make use of tech and gadgets around you and discover cool stuff on the Internet.,https://www.makeuseof.com/feed/,rss,DIY
+Oh Happy Day!,Oh Happy Day is a party and lifestyle blog based in San Francisco. We love to throw parties and make things!,http://ohhappyday.com/feed/,rss,DIY
+WonderHowTo,Hot new how-to videos and articles on WonderHowTo.,https://www.wonderhowto.com/rss.xml,rss,DIY
+AVC,Musings of a VC in NYC,https://avc.com/feed/,rss,Startups
+Both Sides of the Table - Medium,"Perspectives of a 2x entrepreneur turned VC at @UpfrontVC, the largest and most active early-stage fund in Southern California. Snapchat: msuster - Medium",https://bothsidesofthetable.com/feed,rss,Startups
+Entrepreneur,The latest stories from Entrepreneur.,http://feeds.feedburner.com/entrepreneur/latest,rss,Startups
+Feld Thoughts,,https://feld.com/feed,rss,Startups
+Forbes - Entrepreneurs,Forbes - Entrepreneurs,https://www.forbes.com/entrepreneurs/feed/,rss,Startups
+GaryVee,,https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk,rss,Startups
+Hacker News: Front Page,Hacker News RSS,https://hnrss.org/frontpage,rss,Startups
+Inc.com,"Inc.com, the daily resource for entrepreneurs.",https://www.inc.com/rss/,rss,Startups
+Inside Intercom,"Product, Marketing, and Customer Support Blog",https://www.intercom.com/blog/feed,rss,Startups
+Marie Forleo,,https://www.youtube.com/feeds/videos.xml?user=marieforleo,rss,Startups
+Paul Graham: Essays,Scraped feed provided by aaronsw.com,http://www.aaronsw.com/2002/feeds/pgessays.rss,rss,Startups
+"Product Hunt — The best new products, every day",,https://www.producthunt.com/feed,rss,Startups
+Quick Sprout,Start and Grow Your Business,https://www.quicksprout.com/rss,rss,Startups
+Small Business Trends,"Founded in 2003, Small Business Trends is an award-winning online publication for small business owners, entrepreneurs and the people who interact with them. It is one of the most popular independent small business publications on the web. Together with hundreds of expert contributors, Small Business Trends brings you the news, tips, advice and resources you need. ",https://feeds2.feedburner.com/SmallBusinessTrends,rss,Startups
+Smart Passive Income,Smart Passive Income,http://feeds.feedburner.com/smartpassiveincome,rss,Startups
+Springwise,Innovation That Matters,https://www.springwise.com/feed,rss,Startups
+Steve Blank,Innovation and Entrepreneurship,https://steveblank.com/feed/,rss,Startups
+The Startup Junkies Podcast,"The Startup Junkies podcast is hosted by Jeff Amerine and his team at Startup Junkie Consulting. We’ll cover topics ranging from getting started, planning, growing your business, proving your concept, leadership, marketing, exit strategies and so much more. We’ll interview business owners, entrepreneurs, experts and people we think will bring value to our audience. Subscribe and together we will move your business to the next level.",https://startupjunkie.libsyn.com/rss,rss,Startups
+The Tim Ferriss Show,"Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages.  Newsweek calls him ",https://rss.art19.com/tim-ferriss-show,rss,Startups
+This Week in Startups - Video,"Angel investor Jason Calacanis (Uber, Calm, Robinhood) interviews the world’s greatest founders, operators, investors and innovators. Get an insider’s look into venture capital, learn how to start and scale your own startup, and ride the cutting edge of technology in today’s headlines and beyond.",http://feeds.feedburner.com/twistvid,rss,Startups
+VentureBeat,Transformative tech coverage that matters,https://feeds.feedburner.com/venturebeat/SZYF,rss,Startups
+blog – Feld Thoughts,,https://feld.com/archives/tag/blog/feed,rss,Startups
+30 For 30 Podcasts,"Original audio documentaries from the makers of the acclaimed 30 for 30 film series, featuring stories from the world of sports and beyond. 30 for 30 offers captivating storytelling for sports fans and general interest listeners alike, going beyond the field to explore how sports, competition, athleticism and adventure affect our lives and our world. Sports stories like you've never heard before.",https://feeds.megaphone.fm/ESP5765452710,rss,History
+Blog Feed,,https://americanhistory.si.edu/blog/feed,rss,History
+Dan Carlin's Hardcore History,In ,https://feeds.feedburner.com/dancarlin/history?format=xml,rss,History
+History in 28-minutes,"We create a variety of exclusive modern international and American history content! We create free history audio podcasts as part of History in 28-minutes, a magazine called History is Now, and books as part of Required History. Our works explain some of history's most important events concisely and quickly.",https://www.historyisnowmagazine.com/blog?format=RSS,rss,History
+HistoryNet,"HistoryNet.com contains daily features, photo galleries and over 5,000 articles originally published in our various magazines.",http://www.historynet.com/feed,rss,History
+Lore,"Lore is a bi-weekly podcast (as well as a TV show and book series) about dark historical tales. Each episode explores the mysterious creatures, tragic events, and unusual places that fill the pages of history. Because sometimes the truth is more frightening than fiction.",https://feeds.megaphone.fm/lore,rss,History
+Revisionist History,"Revisionist History is Malcolm Gladwell's journey through the overlooked and the misunderstood. Every episode re-examines something from the past—an event, a person, an idea, even a song—and asks whether we got it right the first time. From Pushkin Industries. Because sometimes the past deserves a second chance. iHeartMedia is the exclusive podcast partner of Pushkin Industries.",https://feeds.megaphone.fm/revisionisthistory,rss,History
+The History Reader,A History Blog from St. Martin’s Press,https://www.thehistoryreader.com/feed/,rss,History
+Throughline,The past is never past. Every headline has a history. Join us every week as we go back in time to understand the present. These are stories you can feel and sounds you can see from the moments that shaped our world.,https://feeds.npr.org/510333/podcast.xml,rss,History
+You Must Remember This,"You Must Remember This is a storytelling podcast exploring the secret and/or forgotten histories of Hollywood’s first century. It’s the brainchild and passion project of Karina Longworth (founder of Cinematical.com, former film critic for LA Weekly), who writes, narrates, records and edits each episode. It is a heavily-researched work of creative nonfiction: navigating through conflicting reports, mythology, and institutionalized spin, Karina tries to sort out what really happened behind the films, stars and scandals of the 20th century.",https://feeds.megaphone.fm/YMRT7068253588,rss,History
+Better Programming - Medium,Advice for programmers. - Medium,https://medium.com/feed/better-programming,rss,Programming
+Code as Craft,The Engineering Blog from Etsy,https://codeascraft.com/feed/atom/,rss,Programming
+CodeNewbie,Stories and interviews from people on their coding journey.,http://feeds.codenewbie.org/cnpodcast.xml,rss,Programming
+Coding Horror,programming and human factors,https://feeds.feedburner.com/codinghorror,rss,Programming
+Complete Developer Podcast,A podcast by coders for coders about all aspects of life as a developer.,https://completedeveloperpodcast.com/feed/podcast/,rss,Programming
+Dan Abramov's Overreacted Blog RSS Feed,Personal blog by Dan Abramov. I explain with words and code.,https://overreacted.io/rss.xml,rss,Programming
+Developer Tea,"Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence. With over 13 million downloads to date, Developer Tea is a short podcast hosted by Jonathan Cutrell (@jcutrell), co-founder of Spec and Director of Engineering at PBS. We hope you'll take the topics from this podcast and continue the conversation, either online or in person with your peers. Twitter: @developertea :: Email: developertea@gmail.com",https://feeds.simplecast.com/dLRotFGk,rss,Programming
+English (US),"Information from Twitter's engineering team about our tools, technology and services.",https://blog.twitter.com/engineering/en_us/blog.rss,rss,Programming
+FLOSS Weekly (Audio),We're not talking dentistry here; FLOSS all about Free Libre Open Source Software. Join host Doc Searls and his rotating panel of co-hosts every Wednesday as they talk with the most interesting and important people in the Open Source and Free Software community. Records live every Wednesday at 12:30pm Eastern / 9:30am Pacific / 16:30 UTC.,https://feeds.twit.tv/floss.xml,rss,Programming
+Facebook Engineering,Facebook Engineering Blog,https://engineering.fb.com/feed/,rss,Programming
+GitLab,,https://about.gitlab.com/atom.xml,rss,Programming
+Google Developers Blog,"Blog of our latest news, updates, and stories for developers",http://feeds.feedburner.com/GDBcode,rss,Programming
+Google TechTalks,,https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks,rss,Programming
+HackerNoon.com - Medium,"Elijah McClain, George Floyd, Eric Garner, Breonna Taylor, Ahmaud Arbery, Michael Brown, Oscar Grant, Atatiana Jefferson, Tamir Rice, Bettie Jones, Botham Jean - Medium",https://medium.com/feed/hackernoon,rss,Programming
+Hanselminutes with Scott Hanselman,"Hanselminutes is Fresh Air for Developers. A weekly commute-time podcast that promotes fresh technology and fresh voices. Talk and Tech for Developers, Life-long Learners, and Technologists.",https://feeds.simplecast.com/gvtxUiIf,rss,Programming
+InfoQ,InfoQ feed,https://feed.infoq.com,rss,Programming
+Instagram Engineering - Medium,Stories from the people who build @Instagram - Medium,https://instagram-engineering.com/feed/,rss,Programming
+"Java, SQL and jOOQ.",Best Practices and Lessons Learned from Writing Awesome Java and SQL Code. Get some hands-on insight on what's behind developing jOOQ.,https://blog.jooq.org/feed,rss,Programming
+JetBrains Blog,Developer Tools for Professionals and Teams,https://blog.jetbrains.com/feed,rss,Programming
+Joel on Software,,https://www.joelonsoftware.com/feed/,rss,Programming
+LinkedIn Engineering,The official blog of the Engineering team at LinkedIn,https://engineering.linkedin.com/blog.rss.html,rss,Programming
+Martin Fowler,Master feed of news and updates from martinfowler.com,https://martinfowler.com/feed.atom,rss,Programming
+Netflix TechBlog - Medium,"Learn about Netflix’s world class engineering efforts, company culture, product developments and more. - Medium",https://netflixtechblog.com/feed,rss,Programming
+Overflow - Buffer Resources,"In-depth ideas and guides to social media & online marketing strategy, published by the team at Buffer",https://buffer.com/resources/overflow/rss/,rss,Programming
+Podcast – Software Engineering Daily,,https://softwareengineeringdaily.com/category/podcast/feed,rss,Programming
+Prezi Engineering - Medium,The things we learn as we build our products - Medium,https://engineering.prezi.com/feed,rss,Programming
+Programming Throwdown,"Programming Throwdown educates Computer Scientists and Software Engineers on a cavalcade of programming and tech topics. Every show will cover a new programming language, so listeners will be able to speak intelligently about any programming language.",http://feeds.feedburner.com/ProgrammingThrowdown,rss,Programming
+Programming – The Crazy Programmer,"Programming, Design and Development",https://www.thecrazyprogrammer.com/category/programming/feed,rss,Programming
+Robert Heaton | Blog,Software engineer. One-track lover down a two-way lane,https://robertheaton.com/feed.xml,rss,Programming
+Scott Hanselman's Blog,"Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General",http://feeds.hanselman.com/ScottHanselman,rss,Programming
+Scripting News,It's even worse than it appears.,http://scripting.com/rss.xml,rss,Programming
+Slack Engineering,,https://slack.engineering/feed,rss,Programming
+Software Defined Talk,"A weekly podcast covering all the news and events in Enterprise Software and Cloud Computing. We discuss topics including: Kubernetes, DevOps, Serverless, Security and Coding. Plus, plenty of off topic banter and nonsense to keep you entertained. Don't worry if you miss the latest industry conference, we will recap all the latest news from AWS, Microsoft Azure, Google Cloud Platform (GCP) and the Cloud Native Computing Foundation (CNCF).",https://feeds.fireside.fm/sdt/rss,rss,Programming
+Software Engineering Radio - The Podcast for Professional Software Developers,"Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Every 10 days, a new episode is published that covers all topics software engineering. Episodes are either tutorials on a specific topic, or an interview with a well-known character from the software engineering world. All SE Radio episodes are original content — we do not record conferences or talks given in other venues. Each episode comprises two speakers to ensure a lively listening experience. SE Radio is an independent and non-commercial organization. All content is licensed under the Creative Commons 2.5 license.",http://feeds.feedburner.com/se-radio,rss,Programming
+SoundCloud Backstage Blog,SoundCloud's developer blog.,https://developers.soundcloud.com/blog/blog.rss,rss,Programming
+Spotify Engineering,Spotify’s official technology blog,https://labs.spotify.com/feed/,rss,Programming
+Stack Abuse,"Learn Python, Java, JavaScript/Node, Machine Learning, and Web Development through articles, code examples, and tutorials for developers of all skill levels.",https://stackabuse.com/rss/,rss,Programming
+Stack Overflow Blog,"Essays, opinions, and advice on the act of computer programming from Stack Overflow.",https://stackoverflow.blog/feed/,rss,Programming
+The 6 Figure Developer,Helping others reach their potential,http://6figuredev.com/feed/rss/,rss,Programming
+The Airbnb Tech Blog - Medium,Creative engineers and data scientists building a world where you can belong anywhere. http://airbnb.io - Medium,https://medium.com/feed/airbnb-engineering,rss,Programming
+The Cynical Developer,"A UK based Technology and Software Developer Podcast that helps you to improve your development knowledge and career,
+through explaining the latest and greatest in development technology and providing you with what you need to succeed as a developer.",https://cynicaldeveloper.com/feed/podcast,rss,Programming
+The GitHub Blog,"Updates, ideas, and inspiration from GitHub to help developers build and design software.",https://github.blog/feed/,rss,Programming
+The PIT Show: Reflections and Interviews in the Tech World,This is the show where I sit down with people in the tech space and talk about what they are doing and how they get it all done.,https://feeds.transistor.fm/productivity-in-tech-podcast,rss,Programming
+The Rabbit Hole: The Definitive Developer's Podcast,"Welcome to The Rabbit Hole, the definitive developers podcast. If you are a software developer or technology leader looking to stay on top of the latest news in the software development world, or just want to learn actionable tactics to improve your day-to-day job performance, this podcast is for you.",http://therabbithole.libsyn.com/rss,rss,Programming
+The Stack Overflow Podcast,"The Stack Overflow podcast is a weekly conversation about working in software development, learning to code, and the art and culture of computer programming. Hosted by Paul Ford and Ben Popper, the series features questions from our community, interviews with fascinating guests, and hot takes on what’s happening in tech. Founded in 2008, Stack Overflow is empowering the world to develop technology through collective knowledge. It’s best known for being the largest, most trusted online community for developers and technologists. More than 100 million people come to Stack Overflow every month to ask questions, help solve coding problems, and develop new skills.",https://feeds.simplecast.com/XA_851k3,rss,Programming
+The Standup,"A podcast that delves into the obstacles and successes involved in creating, running, and sustaining successful software side projects.",https://feeds.fireside.fm/standup/rss,rss,Programming
+The Women in Tech Show: A Technical Podcast,"A podcast about what we work on, not what it feels like to be a woman in tech. Hosted by Edaena Salinas, Software Engineer at Microsoft. Website: wit.fm",https://thewomenintechshow.com/category/podcast/feed/,rss,Programming
+programming,Computer Programming,https://www.reddit.com/r/programming/.rss,rss,Programming
+A Daily Dose of Architecture Books,(Almost) daily reviews of architecture books,http://feeds.feedburner.com/archidose,rss,Architecture
+ArchDaily,ArchDaily | Broadcasting Architecture Worldwide,http://feeds.feedburner.com/Archdaily,rss,Architecture
+Archinect - News,,https://archinect.com/feed/1/news,rss,Architecture
+Architectural Digest,The latest from www.architecturaldigest.com,https://www.architecturaldigest.com/feed/rss,rss,Architecture
+Architectural Digest,,https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest,rss,Architecture
+Architecture,"A community for students, professionals, and lovers of architecture.",https://www.reddit.com/r/architecture/.rss,rss,Architecture
+Architecture - Dezeen,architecture and design magazine,https://www.dezeen.com/architecture/feed/,rss,Architecture
+CONTEMPORIST,"Contemporist features great ideas from the world of design, architecture, interior design, furniture, lighting, and art",https://www.contemporist.com/feed/,rss,Architecture
+Comments on:,Green design & innovation for a better world,https://inhabitat.com/architecture/feed/,rss,Architecture
+Design MilkArchitecture - Design Milk,Dedicated to modern design,https://design-milk.com/category/architecture/feed/,rss,Architecture
+Journal,Inspiration and Tools for Architects,https://architizer.wpengine.com/feed/,rss,Architecture
+Living Big In A Tiny House,,https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse,rss,Architecture
+The Architect's Newspaper,The most authoritative voice on architecture and design in the United States.,https://archpaper.com/feed,rss,Architecture
+architecture - designboom | architecture & design magazine,"designboom magazine | your first source for architecture, design & art news",https://www.designboom.com/architecture/feed/,rss,Architecture
+BBC Sport - Tennis,BBC Sport - Tennis,http://feeds.bbci.co.uk/sport/tennis/rss.xml,rss,Tennis
+"Essential Tennis Podcast - Instruction, Lessons, Tips","Improve your tennis with the Essential Tennis Podcast, the very first podcast dedicated to tennis lessons and instruction! Tennis professional Ian Westermann answers listener questions about technique, strategy, mental toughness, and much more.",https://feed.podbean.com/essentialtennis/feed.xml,rss,Tennis
+Grand Slam Fantasy Tennis,Fantasy Tennis,http://www.grandslamfantasytennis.com/feed/?x=1,rss,Tennis
+Tennis - ATP World Tour,Headline News - powered by FeedBurner,https://www.atptour.com/en/media/rss-feed/xml-feed,rss,Tennis
+Tennis News & Discussion,Tennis News & Discussion,https://www.reddit.com/r/tennis/.rss,rss,Tennis
+peRFect Tennis,UK Tennis Blog,https://www.perfect-tennis.com/feed/,rss,Tennis
+www.espn.com - TENNIS,Latest TENNIS news from www.espn.com,https://www.espn.com/espn/rss/tennis/news,rss,Tennis
+BBC News - World,BBC News - World,http://feeds.bbci.co.uk/news/world/rss.xml,rss,News
+CNN.com - RSS Channel - World,"CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.",http://rss.cnn.com/rss/edition_world.rss,rss,News
+International: Top News And Analysis,"CNBC International is the world leader for news on business, technology, China, trade, oil prices, the Middle East and markets.",https://www.cnbc.com/id/100727362/device/rss/rss.html,rss,News
+NDTV News - World-news,"NDTV.com provides the latest information from and in-depth coverage of India and the world. Find breaking news, India news, top stories, elections, politics, business, cricket, movies, lifestyle, health, live TV, videos, photos and more.",http://feeds.feedburner.com/ndtvnews-world-news,rss,News
+NYT > World News,,https://rss.nytimes.com/services/xml/rss/nyt/World.xml,rss,News
+Top stories - Google News,Google News,https://news.google.com/rss,rss,News
+World,"The Washington Post World section provides information and analysis of breaking world news stories. In addition to our world news and video, Post World News offers discussions and blogs on major international news and economic issues.",http://feeds.washingtonpost.com/rss/world,rss,News
+World News,"A place for major news from around the world, excluding US-internal news.",https://www.reddit.com/r/worldnews/.rss,rss,News
+"World News Headlines, Latest International News, World Breaking News - Times of India","World News: TOI brings the latest world news headlines, Current International breaking news world wide. In depth analysis and top news headlines world wide.",https://timesofindia.indiatimes.com/rssfeeds/296589292.cms,rss,News
+World news | The Guardian,"Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice",https://www.theguardian.com/world/rss,rss,News
+Yahoo News - Latest News & Headlines,The latest news and headlines from Yahoo! News. Get breaking news stories and in-depth coverage with videos and photos.,https://www.yahoo.com/news/rss,rss,News
+BBC Sport - Sport,BBC Sport - Sport,http://feeds.bbci.co.uk/sport/rss.xml,rss,Sports
+Reddit Sports,"Sports News and Highlights from the NFL, NBA, NHL, MLB, MLS, and leagues around the world.",https://www.reddit.com/r/sports.rss,rss,Sports
+Sports News - Latest Sports and Football News | Sky News,"The best sports coverage from around the world, covering: Football, Cricket, Golf, Rugby, WWE, Boxing, Tennis and much more.",http://feeds.skynews.com/feeds/rss/sports.xml,rss,Sports
+Sportskeeda,Sports Writers Unite,https://www.sportskeeda.com/feed,rss,Sports
+"Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games","Yahoo! Sports - Comprehensive news, scores, standings, fantasy games, rumors, and more",https://sports.yahoo.com/rss/,rss,Sports
+www.espn.com - TOP,Latest TOP news from www.espn.com,https://www.espn.com/espn/rss/news,rss,Sports
+Android - Buffer Resources,"In-depth ideas and guides to social media & online marketing strategy, published by the team at Buffer",https://buffer.com/resources/android/rss/,rss,Android Development
+Android Developers,,https://www.youtube.com/feeds/videos.xml?user=androiddevelopers,rss,Android Development
+Android Developers - Medium,The official Android Developers publication on Medium - Medium,https://medium.com/feed/androiddevelopers,rss,Android Development
+Android Developers Backstage,"Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.",http://feeds.feedburner.com/blogspot/androiddevelopersbackstage,rss,Android Development
+Android Developers Blog,An Open Handset Alliance Project.,http://feeds.feedburner.com/blogspot/hsDu,rss,Android Development
+Android Weekly Archive Feed,,https://us2.campaign-archive.com/feed?u=887caf4f48db76fd91e20a06d&id=4eb677ad19,rss,Android Development
+Android in Instagram Engineering on Medium,Latest stories tagged with Android in Instagram Engineering on Medium,https://instagram-engineering.com/feed/tagged/android,rss,Android Development
+Android in MindOrks on Medium,Latest stories tagged with Android in MindOrks on Medium,https://medium.com/feed/mindorks/tagged/android,rss,Android Development
+Android in The Airbnb Tech Blog on Medium,Latest stories tagged with Android in The Airbnb Tech Blog on Medium,https://medium.com/feed/airbnb-engineering/tagged/android,rss,Android Development
+Dan Lew Codes,"Thoughts on life, the universe and the mystery of it all; but actually mostly just code.",https://blog.danlew.net/rss/,rss,Android Development
+Developing Android Apps,"News for Android developers with the who, what, where, when and how of the Android community. News / Articles / Talks / Tools / Open source!",https://reddit.com/r/androiddev.rss,rss,Android Development
+Fragmented - The Software Podcast,"The Fragmented Podcast is a podcast for Software Developers hosted by Donn Felker and Kaushik Gopal. Our goal is to help you become a better Software Developer. We chat about topics such as Testing, Dependency Injection, Patterns and Practices, useful libraries, and much more. We will also be interviewing some of the top developers out there. Subscribe now and join us on the journey of being a Software Developer.",https://feeds.simplecast.com/LpAGSLnY,rss,Android Development
+Handstand Sam,"Sam Edwards - Handstands, Travel, Android & Web",https://handstandsam.com/feed/,rss,Android Development
+Jake Wharton,,https://jakewharton.com/atom.xml,rss,Android Development
+JetBrains News | JetBrains Blog,Developer Tools for Professionals and Teams,https://blog.jetbrains.com/blog/feed,rss,Android Development
+Joe Birch,"Speaker, Educator and GDE for Android, Google Assistant & Flutter",https://joebirch.co/feed,rss,Android Development
+Kotlin,,https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy,rss,Android Development
+Kt. Academy - Medium,Blog with mission to simplify Kotlin learning - Medium,https://blog.kotlin-academy.com/feed,rss,Android Development
+OkKotlin,A premier blog on Kotlin.,https://okkotlin.com/rss.xml,rss,Android Development
+ProAndroidDev - Medium,The latest posts from Android Professionals and Google Developer Experts. - Medium,https://proandroiddev.com/feed,rss,Android Development
+Public Object,Jesse Wilson on programming.,https://publicobject.com/rss/,rss,Android Development
+Styling Android,A technical guide to improving the UI and UX of Android apps,http://feeds.feedburner.com/StylingAndroid,rss,Android Development
+Talking Kotlin,"A bimonthly podcast that covers the Kotlin programming language by JetBrains, as well as related technologies. Hosted by Hadi Hariri",https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss,rss,Android Development
+The Android Arsenal,A categorized directory of libraries and tools for Android,https://feeds.feedburner.com/Android_Arsenal,rss,Android Development
+Zac Sweers,"Life, travel, code, and the whitespace in between.",https://www.zacsweers.dev/rss/,rss,Android Development
+Zarah Dominguez,An Android Love Affair,https://zarah.dev/feed.xml,rss,Android Development
+chRyNaN Codes,Software Development Blog,https://chrynan.codes/rss/,rss,Android Development
+droidcon NYC,,https://www.youtube.com/feeds/videos.xml?channel_id=UCSLXy31j2Z0sdDeeAX5JpPw,rss,Android Development
+droidcon SF,,https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg,rss,Android Development
+goobar,dream / learn / create,https://goobar.io/feed,rss,Android Development
+zsmb.co,Recent content on zsmb.co,https://zsmb.co/index.xml,rss,Android Development
+Escapist Magazine,Everything fun,https://www.escapistmagazine.com/v2/feed/,rss,Gaming
+Eurogamer.net,Bad puns and video games since 1999.,https://www.eurogamer.net/?format=rss,rss,Gaming
+Gamasutra News,Gamasutra News,http://feeds.feedburner.com/GamasutraNews,rss,Gaming
+GameSpot - All Content,GameSpot's Everything Feed! All the latest from GameSpot,https://www.gamespot.com/feeds/mashup/,rss,Gaming
+IGN All,"The latest IGN news, reviews and videos about video games, movies, TV, tech and comics",http://feeds.ign.com/ign/all,rss,Gaming
+Indie Games Plus,"Creative, Personal, Passionate Digital Experiences",https://indiegamesplus.com/feed,rss,Gaming
+Kotaku,"Gaming Reviews, News, Tips and More.",https://kotaku.com/rss,rss,Gaming
+"Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup","A beauty blog blooming with fresh makeup reviews, swatches and beauty tips from your friendly neighborhood beauty addict",https://www.makeupandbeautyblog.com/feed/,rss,Gaming
+PlayStation.Blog,"Official PlayStation Blog for news and video updates on PlayStation, PS5, PS4, PS VR, PlayStation Plus and more.",http://feeds.feedburner.com/psblog,rss,Gaming
+Polygon -  All,,https://www.polygon.com/rss/index.xml,rss,Gaming
+"Rock, Paper, Shotgun",This is a feed of all the latest articles from Rock Paper Shotgun.,http://feeds.feedburner.com/RockPaperShotgun,rss,Gaming
+Steam RSS News Feed,"All Steam news, all the time!",https://store.steampowered.com/feeds/news.xml,rss,Gaming
+The Ancient Gaming Noob,"Veni, Vidi, Scripsi",http://feeds.feedburner.com/TheAncientGamingNoob,rss,Gaming
+"TouchArcade - iPhone, iPad, Android Games Forum",iPhone and iPad Games and News,https://toucharcade.com/community/forums/-/index.rss,rss,Gaming
+Xbox's Major Nelson,Xbox news & facts direct from the source,https://majornelson.com/feed/,rss,Gaming
+r/gaming,"A subreddit for (almost) anything related to games - video games, board games, card games, etc. (but not sports).",https://www.reddit.com/r/gaming.rss,rss,Gaming
+A year of reading the world,"196 countries, countless stories...",https://ayearofreadingtheworld.com/feed/,rss,Books
+Aestas Book Blog,"Romance book reviews. Reviews of books that make my heart race, have a beautiful love story, and a happy ending.",https://aestasbookblog.com/feed/,rss,Books
+BOOK RIOT,Book Recommendations and Reviews,https://bookriot.com/feed/,rss,Books
+Kirkus Reviews,Latest book reviews from Kirkus Reviews.,https://www.kirkusreviews.com/feeds/rss/,rss,Books
+Page Array - NewInBooks,Answering the Age old question - What are you reading?,https://www.newinbooks.com/feed/,rss,Books
+"So many books, so little time","This is a moderated subreddit. It is our intent and purpose to foster and encourage in-depth discussion about all things related to books, authors, genres, or publishing in a safe, supportive environment. If you're looking for help with a personal book recommendation, consult our Weekly Recommendation Thread, Suggested Reading page, or ask in r/suggestmeabook.",https://reddit.com/r/books/.rss,rss,Books
+Wokeread,Books any time any day.,https://wokeread.home.blog/feed/,rss,Books
+Fashion - ELLE,,https://www.elle.com/rss/fashion.xml/,rss,Fashion
+Fashion | The Guardian,"The latest fashion news, advice and comment from the Guardian",https://www.theguardian.com/fashion/rss,rss,Fashion
+Fashion - Indian Fashion Blog,,https://www.fashionlady.in/category/fashion/feed,rss,Fashion
+FashionBeans Men's Fashion and Style Feed,"A comprehensive guide to men's fashion and style, from the latest trends and hottest pieces to building a capsule wardrobe.",https://www.fashionbeans.com/rss-feed/?category=fashion,rss,Fashion
+Fashionista,Fashionista,https://fashionista.com/.rss/excerpt/,rss,Fashion
+NYT > Style,,https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml,rss,Fashion
+POPSUGAR Fashion,Top Fashion Stories,https://www.popsugar.com/fashion/feed,rss,Fashion
+Refinery29,Refinery29,https://www.refinery29.com/fashion/rss.xml,rss,Fashion
+THE YESSTYLIST - Asian Fashion Blog - brought to you by YesStyle.com,,https://www.yesstyle.com/blog/category/trend-and-style/feed/,rss,Fashion
+Who What Wear,Who What Wear,https://www.whowhatwear.com/rss,rss,Fashion
+60-Second Science,Tune in every weekday for quick reports and commentaries on the world of science—it'll just take a minute,http://rss.sciam.com/sciam/60secsciencepodcast,rss,Science
+BBC News - Science & Environment,BBC News - Science & Environment,http://feeds.bbci.co.uk/news/science_and_environment/rss.xml,rss,Science
+Discovery,Explorations in the world of science.,https://podcasts.files.bbci.co.uk/p002w557.rss,rss,Science
+FlowingData,Strength in Numbers,https://flowingdata.com/feed,rss,Science
+Gizmodo,We come from the future,https://gizmodo.com/tag/science/rss,rss,Science
+Hidden Brain,"Shankar Vedantam uses science and storytelling to reveal the unconscious patterns that drive human behavior, shape our choices and direct our relationships.",https://feeds.npr.org/510308/podcast.xml,rss,Science
+Invisibilia,"Unseeable forces control human behavior and shape our ideas, beliefs, and assumptions. Invisibilia—Latin for invisible things—fuses narrative storytelling with science that will make you see your own life differently.",https://feeds.npr.org/510307/podcast.xml,rss,Science
+Latest Science News -- ScienceDaily,,https://www.sciencedaily.com/rss/all.xml,rss,Science
+Nature,"Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community.  ",https://www.nature.com/nature.rss,rss,Science
+Phys.org - latest science and technology news stories,"Phys.org internet news portal provides the latest news on science including: Physics, Nanotechnology, Life Sciences, Space Science, Earth Science, Environment, Health and Medicine.",https://phys.org/rss-feed/,rss,Science
+Probably Science,"Professional comedians with so-so STEM pedigrees take you through this week in science. Incompetently. Featuring hosts Matt Kirshen, Andy Wood (and sometimes Jesse Case or Brooks Wheelan) along with a rotating cast of special guests from the worlds of comedy and science.",https://probablyscience.libsyn.com/rss,rss,Science
+Radiolab,"Radiolab is one of the most beloved podcasts and public radio shows in the world. The show is known for its deep-dive journalism and innovative sound design. Created in 2002 by host Jad Abumrad, the program began as an exploration of scientific inquiry. Over the years it has evolved to become a platform for long-form journalism and storytelling. Radiolab is co-hosted by Lulu Miller and Latif Nasser.",http://feeds.wnyc.org/radiolab,rss,Science
+Reddit Science,"This community is a place to share and discuss new scientific research. Read about the latest advances in astronomy, biology, medicine, physics, social science, and more. Find and submit new publications and popular science coverage of current research.",https://reddit.com/r/science/.rss,rss,Science
+Sawbones: A Marital Tour of Misguided Medicine,"Join Dr. Sydnee McElroy and her husband Justin McElroy for a tour of all the dumb, bad, gross, weird and wrong ways we've tried to fix people.",https://feeds.simplecast.com/y1LF_sn2,rss,Science
+Science Latest,Channel Description,https://www.wired.com/feed/category/science/latest/rss,rss,Science
+Science Vs,"There are a lot of fads, blogs and strong opinions, but then there’s SCIENCE. Science Vs is the show from Gimlet that finds out what’s fact, what’s not, and what’s somewhere in between. We do the hard work of sifting through all the science so you don't have to and cover everything from 5G and Pandemics, to Vaping and Fasting Diets.",http://feeds.gimletmedia.com/ScienceVs,rss,Science
+Science-Based Medicine,Exploring issues and controversies in the relationship between science and medicine,https://sciencebasedmedicine.org/feed/,rss,Science
+Scientific American Content: Global,Science news and technology updates from Scientific American,http://rss.sciam.com/ScientificAmerican-Global,rss,Science
+Shirtloads of Science,"Dr Karl’s a curious optimist – a great combination for a science lover. Join him and his guests for weird facts, amazing conversation and remember, it’s never too late for a happy childhood. 
+https://drkarl.com/",https://shirtloadsofscience.libsyn.com/rss,rss,Science
+TED Talks Daily (SD video),"TED is a nonprofit devoted to ideas worth spreading. On this video feed, you'll find TED Talks to inspire, intrigue and stir the imagination from some of the world's leading thinkers and doers, speaking from the stage at TED conferences, TEDx events and partner events around the world. This podcast is also available in high-def video and audio-only formats.",https://pa.tedcdn.com/feeds/talks.rss,rss,Science
+The Infinite Monkey Cage,"Witty, irreverent look at the world through scientists' eyes. With Brian Cox and Robin Ince.",https://podcasts.files.bbci.co.uk/b00snr0w.rss,rss,Science
+This Week in Science – The Kickass Science Podcast,The kickass science and technology radio show that delivers an irreverent look at the week in science and technology.,http://www.twis.org/feed/,rss,Science
+500px,,https://iso.500px.com/feed/,rss,Photography
+500px:,on 500px.,https://500px.com/editors.rss,rss,Photography
+Big Picture,News Stories in Photographs from the Boston Globe.,https://www.bostonglobe.com/rss/bigpicture,rss,Photography
+"Canon Rumors - Your best source for Canon rumors, leaks and gossip",,https://www.canonrumors.com/feed/,rss,Photography
+Digital Photography School,Digital Photography Tips and Tutorials,https://feeds.feedburner.com/DigitalPhotographySchool,rss,Photography
+Light Stalking,Illuminating Your Passion,https://www.lightstalking.com/feed/,rss,Photography
+Lightroom Killer Tips,"Lightroom Presets, Videos, Tips and News",https://lightroomkillertips.com/feed/,rss,Photography
+One Big Photo,a Picture is Worth a Thousand Words | Submit Your Photo | World's Best Photography,http://feeds.feedburner.com/OneBigPhoto,rss,Photography
+PetaPixel,"Photography and Camera News, Reviews, and Inspiration",https://petapixel.com/feed/,rss,Photography
+Strobist,Learn How to Light.,http://feeds.feedburner.com/blogspot/WOBq,rss,Photography
+Stuck in Customs,Trey Ratcliff's Travel Photography blog with daily inspiration to motivate you!,https://stuckincustoms.com/feed/,rss,Photography
+The Sartorialist,Just another WordPress site,https://feeds.feedburner.com/TheSartorialist,rss,Photography
+EFL Championship,Home of the EFL Championship on Reddit,https://www.reddit.com/r/Championship/.rss?format=xml,rss,Football
+Football - The People's Sport,"Home of Football. News, Rumours, Analysis, gossip and much more.",https://www.reddit.com/r/football/.rss?format=xml,rss,Football
+"Football News, Live Scores, Results & Transfers | Goal.com","The latest football news, rumours, transfers and match reports from around the world.",https://www.goal.com/feeds/en/news,rss,Football
+Football365,"Views, Live Matches, Gossip & more | Football365.com",https://www.football365.com/feed,rss,Football
+Soccer News,The Latest Soccer News from around the globe.,https://www.soccernews.com/feed,rss,Football
